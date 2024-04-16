@@ -1,0 +1,19 @@
+# ninja log v5
+1	1037	1707987523812119752	CMakeFiles/openGLRaymarching.dir/imgui/imgui_draw.cpp.o	e7fd6b117f35c23
+2	96	1707987586531101032	CMakeFiles/openGLRaymarching.dir/imgui/imgui_impl_opengl3.cpp.o	cdd34c564c667fbc
+1	802	1707987523580123520	CMakeFiles/openGLRaymarching.dir/imgui/imgui_tables.cpp.o	a788c3e7ff6987e2
+438	544	1708105725210830044	openGLRaymarching	11a839efed6731b6
+2	438	1708105725106831380	CMakeFiles/openGLRaymarching.dir/main.cpp.o	3433f558e1d7d58e
+2	112	1707987586547100773	CMakeFiles/openGLRaymarching.dir/imgui/imgui_impl_glfw.cpp.o	f9d32226b05e834e
+1	1582	1707987524356110916	CMakeFiles/openGLRaymarching.dir/imgui/imgui.cpp.o	9e8ccbffbf97c1c3
+1	721	1707987523496124885	CMakeFiles/openGLRaymarching.dir/imgui/imgui_demo.cpp.o	3e2c65561ee1a6e3
+0	94	1707895345173783971	CMakeFiles/openGLRaymarching.dir/glad.c.o	1c9d46b334ad4038
+2	1249	1707987524024116309	CMakeFiles/openGLRaymarching.dir/imgui/imgui_widgets.cpp.o	6d71a0e5cd1924a3
+2	35	1708324956020872681	build.ninja	e6a24837c6506f7d
+1	915	1713250656891541417	CMakeFiles/openGLRaymarching.dir/main.cpp.o	3433f558e1d7d58e
+2	1018	1713250656991540747	CMakeFiles/openGLRaymarching.dir/imgui/imgui_demo.cpp.o	3e2c65561ee1a6e3
+3	1317	1713250657291538741	CMakeFiles/openGLRaymarching.dir/imgui/imgui_tables.cpp.o	a788c3e7ff6987e2
+2	1635	1713250657607536626	CMakeFiles/openGLRaymarching.dir/imgui/imgui_draw.cpp.o	e7fd6b117f35c23
+3	1907	1713250657879534807	CMakeFiles/openGLRaymarching.dir/imgui/imgui_widgets.cpp.o	6d71a0e5cd1924a3
+2	2346	1713250658315531890	CMakeFiles/openGLRaymarching.dir/imgui/imgui.cpp.o	9e8ccbffbf97c1c3
+2346	2520	1713250658491530713	openGLRaymarching	11a839efed6731b6
